@@ -154,7 +154,7 @@ To convert my .jar file to a .exe file, I used the online converter : [convertio
 
 ### Images 
 
-images and icons are from several sources on Google
+images and icons are from several sources on Google.
 
 
 ### Acknowledgements
