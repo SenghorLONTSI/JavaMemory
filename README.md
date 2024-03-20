@@ -10,7 +10,7 @@
 <br/>
 
 ![screenshot](ReadmeImg/accueil.png)
-## Goal of the project
+## Goal of the project.
 
 The goal of making a memory game is to create a board or board game that tests
 players' memory by asking them to find pairs or triplets of identical cards in
