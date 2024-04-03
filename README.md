@@ -21,7 +21,7 @@ players' memory and concentration, while providing a fun and entertaining
 challenge.
 
 ## User eXperience(UX)
-### Strategy
+### Strategy.
 
 __App Objective__: The Memory Game is often used as an educational game for children, but can also be a fun pastime for adults..
 
