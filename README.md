@@ -55,7 +55,7 @@ This helped me identify key features that memory game app users expect to see.
 
 ### Structure
 
-#### Interaction Design
+#### Interaction Design.
 
 __Consistency & Predictability:__
 
